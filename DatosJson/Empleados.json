@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Marco",
+    "apellido": "Aurelio",
+    "fechaIngreso": "Nov 20, 2014 7:12:59 PM",
+    "tiempoEmpleo": 2929,
+    "Bono": 10,
+    "sueldo": 467,
+    "tipoEmpleado": "SENIOR"
+  },
+  {
+    "nombre": "Leonardo",
+    "apellido": "Peralta",
+    "fechaIngreso": "Nov 1, 2022 7:13:51 PM",
+    "tiempoEmpleo": 26,
+    "Bono": 0,
+    "sueldo": 425,
+    "tipoEmpleado": "JUNIOR"
+  },
+  {
+    "nombre": "Julio",
+    "apellido": "Trajano",
+    "fechaIngreso": "Nov 15, 2002 7:12:59 PM",
+    "tiempoEmpleo": 7317,
+    "Bono": 20,
+    "sueldo": 510,
+    "tipoEmpleado": "VETERANO"
+  }
+]
